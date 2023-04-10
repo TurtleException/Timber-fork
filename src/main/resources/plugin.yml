@@ -1,0 +1,4 @@
+name: Timber
+authors: ["Timber", "TurtleException"]
+version: 1.0.0
+main: me.teeage.timber.Timber
